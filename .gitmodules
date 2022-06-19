@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "unstruwwel"]
+	path = unstruwwel
+	url = https://github.com/stefanieschneider/unstruwwel
+	shallow = true
+	registered = true
+[submodule "viafr"]
+	path = viafr
+	url = https://github.com/stefanieschneider/viafr
+	shallow = true
+	registered = true
