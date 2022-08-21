@@ -2,9 +2,5 @@
   {
     "package": "unstruwwel",
     "oncran": true
-  },
-  {
-    "package": "viafr",
-    "oncran": true
   }
 ]
