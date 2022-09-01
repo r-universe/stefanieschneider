@@ -8,3 +8,8 @@
 	url = https://github.com/stefanieschneider/unstruwwel
 	shallow = true
 	registered = true
+[submodule "viafr"]
+	path = viafr
+	url = https://github.com/stefanieschneider/viafr
+	shallow = true
+	registered = true
