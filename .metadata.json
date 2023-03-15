@@ -1,10 +1,10 @@
 [
   {
-    "package": "unstruwwel",
+    "package": "viafr",
     "oncran": true
   },
   {
-    "package": "viafr",
+    "package": "unstruwwel",
     "oncran": true
   }
 ]
