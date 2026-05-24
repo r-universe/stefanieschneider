@@ -5,6 +5,3 @@
 [submodule "unstruwwel"]
 	path = unstruwwel
 	url = https://github.com/stefanieschneider/unstruwwel
-[submodule "viafr"]
-	path = viafr
-	url = https://github.com/stefanieschneider/viafr
